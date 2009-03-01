@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2562
+
+This is a color scheme that I use to make my gVim identical (other than spell highlighting) to Vim.  In order to do this, I set the variables in the ansi_blows.vim colorscheme to exactly match the colors that my terminal emulator uses.  I've tweaked these values in both places to be very readable, to me.  Of course I suggest tweaking them for your own needs, or to match the colors that you are used to in your terminal emulator.  For convenience, I've included in comments some common color sets that I'm aware of.
+
+Note, I made this on vim 7.2, it may not work on any prior versions, but it probably does.
